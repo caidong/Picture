@@ -1,3 +1,12 @@
+---
+title: Docker 部署CDH
+date: 2021-07-10 23:12:43
+tags:
+- cdh
+- 笔记
+categories: 
+- cdh
+---
 ### 腾讯云主机硬盘挂载
 **[腾讯文档链接](https://cloud.tencent.com/document/product/362/6734)**
 1. 查看主机现有磁盘
